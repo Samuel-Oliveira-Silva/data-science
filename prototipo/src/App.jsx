@@ -19,8 +19,7 @@ const C = {
 const PIE_COLORS = [C.positive, C.negative, C.mixed];
 
 // CONFIGURAÇÃO ENDPOINT API (Altere para a URL pública do seu serviço Render após o deploy)
-const BACKEND_URL = "http://localhost:8000";
-
+const BACKEND_URL = "https://data-science-1fl7.onrender.com"
 // ---------------------------------------------------------------------------
 // SQUAD MEMBERS (REQUISITO OBRIGATÓRIO - NÃO REMOVER)[cite: 2]
 // ---------------------------------------------------------------------------
